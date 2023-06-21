@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🌱 I’m currently learning HTML<br>💬 Ask me about HTML<br>📫 E-mail me ajay1270panwar@gmail.com<br>
+🌱 MERN Developer💬<br>📫 E-mail me ajay1270panwar@gmail.com<br>
 
 
 ## 🌐 Socials:
